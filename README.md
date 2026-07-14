@@ -5,10 +5,10 @@ experience monitoring for a small block of policies.
  
 ## Goals
  
-- Build a life insurance model from real actuarial data and formulas, not templates
+- Build a life insurance model from real actuarial data and formulas
 - Understand and apply core actuarial concepts: net premium pricing, reserve
   roll-forwards, and experience monitoring (A/E analysis)
-- Be able to explain every part of the model end-to-end
+- Get practice using excel functions - INDEX/MATCH, LOOKUPS, Pivot Tables 
 ## Data used
  
 - **2017 CSO Select & Ultimate mortality table** (from mort.soa.org), 5% interest
