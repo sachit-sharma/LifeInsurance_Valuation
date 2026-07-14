@@ -25,9 +25,9 @@ experience monitoring for a small block of policies.
 - Calculated net premiums using the equivalence principle
 - Built year-by-year projections (survival probabilities, discount factors, insurance
   and annuity values)
-- Built a reserve roll-forward for POL1015
-- Simulated 5,000 policy-years of mortality experience and built an A/E (Actual vs.
-  Expected) dashboard by age band and duration band
+- Calculated reserves along the duration of policy
+- Simulated 5,000 policy-years of mortality experience and calculated A/E (Actual vs.
+  Expected) ratios according to age band and duration
 ## What's in each sheet
  
 | Sheet | What it contains |
